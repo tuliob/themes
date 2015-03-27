@@ -1,0 +1,42 @@
+/* focused element borders */
+.entry:focus,
+GtkComboBox.combobox-entry .entry:focus,
+.button.default:active,
+.inline-toolbar.toolbar.vertical .button.default:active,
+GtkSwitch.trough:active { 
+    border-image: url("borders/generic-border-focused.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+    border-radius: 3px;
+    border-width: 1px 1px 2px 1px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+
+
+/**********
+ * switch *
+ **********/
+GtkSwitch {
+	border-radius: 0;
+	padding: 0;
+
+	-unico-focus-border-radius: 4;
+	-unico-focus-border-color: alpha (@theme_selected_bg_color, 0.3);
+	-unico-focus-fill-color: @transparent;
+}
+
+GtkSwitch.trough:active {
+	background-image: -gtk-gradient (linear, left top, left bottom,
+		from (shade (@theme_selected_bg_color, 0.93)),
+		to (shade (@theme_selected_bg_color, 0.99)));
+
+	color: @theme_selected_fg_color;
+	text-shadow: 0 0 shade (@theme_selected_bg_color, 0.7);
+
+	-unico-border-gradient: -gtk-gradient (linear, left top, left bottom,
+		from (shade (@theme_selected_bg_color, 0.7)),
+		to (shade (@theme_selected_bg_color, 0.76)));
+	-unico-inner-stroke-gradient: -gtk-gradient (linear, left top, left bottom,
+		from (shade (@theme_selected_bg_color, 0.86)),
+		to (shade (@theme_selected_bg_color, 0.94)));
+}

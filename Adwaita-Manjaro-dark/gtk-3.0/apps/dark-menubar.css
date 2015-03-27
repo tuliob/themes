@@ -1,0 +1,42 @@
+/* Dark Menubar */
+
+.menubar {
+    color: #ffffff;
+    background-color: #202020;
+    background-image: linear-gradient(to top,
+                                      #202020,
+                                      #282828);
+}
+
+/***************
+ * menubaritem *
+ ***************/
+.menubar.menuitem:hover,
+.menubar .menuitem:hover {
+    color: #202020;
+}
+
+/* Contacts. Button for dark toolbar */
+/*.contacts-left-toolbar.toolbar.menubar * .button,
+.contacts-left-toolbar.toolbar.menubar * .button:focus,
+.contacts-left-toolbar.toolbar.menubar * .button:active,
+.contacts-left-toolbar.toolbar.menubar * .button:selected {
+    background-color: #363636;
+    background-image: linear-gradient(to top,
+                                      #363636,
+                                      #404040);
+    padding: 0.3em 1em;
+    color: #efefef;
+    border: 1px solid #222;
+    text-shadow: #222 1px 1px;
+}
+
+.contacts-left-toolbar.toolbar.menubar * .button:hover {
+    background-image: linear-gradient(to top,
+                                      #404040,
+                                      #444);
+}
+
+.contacts-left-toolbar.toolbar.menubar {
+    border-width: 0;
+}*/

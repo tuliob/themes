@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Greenbird
+Comment=Greenbird theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Greenbird
+MetacityTheme=Greenbird
+IconTheme=Faenza-Green
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close

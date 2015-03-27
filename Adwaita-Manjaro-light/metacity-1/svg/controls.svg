@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="80"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="controls.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="-6.3280693"
+     inkscape:cy="26.35813"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false">
+    <inkscape:grid
+       originy="0px"
+       originx="0px"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="8"
+       id="grid2985"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide2987"
+       position="24,32"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide2989"
+       position="48,8"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide2991"
+       position="72,0"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide2993"
+       position="96,0"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide2995"
+       position="128,16"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide2997"
+       position="80,32"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide2999"
+       position="97,48"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide3001"
+       position="80,64"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide3082"
+       position="88,80"
+       orientation="0,1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       y2="2.4214737"
+       x2="26.23391"
+       y1="-0.94923496"
+       x1="22.863201"
+       gradientTransform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,-9.87868,-7.4350298)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6695"
+       xlink:href="#linearGradient3587-6-5-1-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3587-6-5-1-5">
+      <stop
+         id="stop3589-9-2-8-5"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3591-7-4-3-0"
+         style="stop-color:#646464;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     style="display:none"
+     transform="translate(0,-972.36218)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background">
+    <rect
+       y="1034.3622"
+       x="5.9999976"
+       height="12.000005"
+       width="12.000005"
+       id="rect3793"
+       style="color:#000000;fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3812"
+       width="12.000005"
+       height="12.000005"
+       x="5.9999976"
+       y="1010.3622" />
+    <rect
+       y="986.36218"
+       x="5.9999976"
+       height="12.000005"
+       width="12.000005"
+       id="rect3814"
+       style="color:#000000;fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       transform="translate(0,932.36218)"
+       y="0"
+       x="0"
+       height="120"
+       width="120"
+       id="rect3022"
+       style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(0,-40)"
+     inkscape:label="Icons"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       y="40"
+       x="0"
+       height="80"
+       width="120"
+       id="rect3097"
+       style="fill:#3e3e3e;fill-opacity:1;stroke:none" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="close_focused_normal.png"
+       id="g3955">
+      <rect
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3800"
+         width="24"
+         height="16"
+         x="0"
+         y="104"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         id="rect3807"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(0,8)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="minimize_focused_normal.png"
+       id="g3951">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3816"
+         width="24"
+         height="16"
+         x="0"
+         y="80"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3898"
+         width="10"
+         height="2"
+         x="7"
+         y="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(0,16)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="maximize_focused_normal.png"
+       id="g3947">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3894"
+         width="24"
+         height="16"
+         x="0"
+         y="56"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3096"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         style="opacity:0.6;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(0,24)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="unmaximize_focused_normal.png"
+       id="g3943">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3896"
+         width="24"
+         height="16"
+         x="0"
+         y="32"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         style="opacity:0.6;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(24,0)"
+       id="g3959"
+       inkscape:export-filename="close_focused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         y="104"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3961"
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:connector-curvature="0"
+         id="path3963"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(24,8)"
+       id="g3965"
+       inkscape:export-filename="minimize_focused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="80"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3967"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="90"
+         x="7"
+         height="2"
+         width="10"
+         id="rect3969"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(0,16)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="maximize_focused_prelight.png"
+       id="g4107">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="56"
+         x="24"
+         height="16"
+         width="24"
+         id="rect3973"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3096-4"
+         d="m 35,59 0,2 2.625,0 L 35,63.5625 36.40625,65 39,62.375 39,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(0,24)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="unmaximize_focused_prelight.png"
+       id="g4198">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="32"
+         x="24"
+         height="16"
+         width="24"
+         id="rect3979"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path4000-0"
+         d="m 35,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 41,36.4375 39.59375,35 37,37.625 37,35 35,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="close_focused_pressed.png"
+       id="g3983"
+       transform="translate(48,0)">
+      <rect
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3985"
+         width="24"
+         height="16"
+         x="0"
+         y="104"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 16.949747,116.53553 13.414214,113 16.949747,109.46447 15.535534,108.05025 12,111.58579 8.464466,108.05025 7.050252,109.46447 10.585786,113 7.050252,116.53553 8.464466,117.94975 12,114.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         id="path3987"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="minimize_focused_pressed.png"
+       id="g3989"
+       transform="translate(48,8)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3991"
+         width="24"
+         height="16"
+         x="0"
+         y="80"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3993"
+         width="10"
+         height="2"
+         x="7"
+         y="91"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="maximize_focused_pressed.png"
+       id="g3995"
+       transform="translate(48,16)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3997"
+         width="24"
+         height="16"
+         x="0"
+         y="56"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3096-2"
+         d="m 11,60 0,2 2.625,0 L 11,64.5625 12.40625,66 15,63.375 15,66 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="unmaximize_focused_pressed.png"
+       id="g4001"
+       transform="translate(48,24)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4003"
+         width="24"
+         height="16"
+         x="0"
+         y="32"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path4000-1"
+         d="m 11,36 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,37.4375 15.59375,36 13,38.625 13,36 11,36 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(72,0)"
+       id="g4067"
+       inkscape:export-filename="close_unfocused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         y="104"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4069"
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:connector-curvature="0"
+         id="path4071"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(72,8)"
+       id="g4073"
+       inkscape:export-filename="minimize_unfocused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="80"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4075"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="90"
+         x="7"
+         height="2"
+         width="10"
+         id="rect4077"
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(72,16)"
+       id="g4079"
+       inkscape:export-filename="maximize_unfocused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="56"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4081"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3096-3"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         style="opacity:0.3;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(72,24)"
+       id="g4085"
+       inkscape:export-filename="unmaximize_unfocused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="32"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4087"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path4000-13"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         style="opacity:0.3;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(96,0)"
+       id="g4091"
+       inkscape:export-filename="close_unfocused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         y="104"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4093"
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:connector-curvature="0"
+         id="path4095"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         style="opacity:0.59999999999999998;color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(96,8)"
+       id="g4097"
+       inkscape:export-filename="minimize_unfocused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="80"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4099"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="90"
+         x="7"
+         height="2"
+         width="10"
+         id="rect4101"
+         style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(96,16)"
+       id="g4103"
+       inkscape:export-filename="maximize_unfocused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="56"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4105"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3096-9"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         style="opacity:0.6;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(96,24)"
+       id="g4109"
+       inkscape:export-filename="unmaximize_unfocused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="32"
+         x="0"
+         height="16"
+         width="24"
+         id="rect4111"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path4000-4"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         style="opacity:0.6;color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="menu_focused.png"
+       id="g3874">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3872"
+         width="24"
+         height="16"
+         x="0"
+         y="40" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         id="rect3089" />
+    </g>
+    <g
+       transform="translate(24,0)"
+       id="g3878"
+       inkscape:export-filename="menu_focused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3880"
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3882"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="menu_focused_pressed.png"
+       id="g3884"
+       transform="translate(48,0)">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3886"
+         width="24"
+         height="16"
+         x="0"
+         y="40" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,44 0,1.15625 C 10.635689,45.2502 10.285081,45.376237 9.96875,45.5625 L 9.15625,44.75 7.75,46.15625 8.5625,46.96875 C 8.3762371,47.285081 8.2501999,47.635689 8.15625,48 L 7,48 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,51.84375 9.15625,53.25 9.96875,52.4375 C 10.285081,52.623763 10.635689,52.7498 11,52.84375 L 11,54 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,53.25 16.25,51.84375 15.4375,51.03125 C 15.623763,50.714919 15.7498,50.364311 15.84375,50 L 17,50 17,48 15.84375,48 C 15.7498,47.635689 15.623763,47.285081 15.4375,46.96875 L 16.25,46.15625 14.84375,44.75 14.03125,45.5625 C 13.714919,45.376237 13.364311,45.2502 13,45.15625 L 13,44 11,44 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         id="path3888"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(72,0)"
+       id="g3890"
+       inkscape:export-filename="menu_unfocused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3892"
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3894"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="menu_unfocused_prelight.png"
+       id="g3896"
+       transform="translate(96,0)">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3899"
+         width="24"
+         height="16"
+         x="0"
+         y="40" />
+      <path
+         style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         id="path3901"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3867"
+       y="32.849091"
+       x="9.3691645"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="32.849091"
+         x="9.3691645"
+         id="tspan3869"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3871"
+       y="18.657633"
+       x="12.005692"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="18.657633"
+         x="12.005692"
+         id="tspan3873"
+         sodipodi:role="line">focused</tspan><tspan
+         id="tspan3897"
+         y="23.657633"
+         x="12.005692"
+         sodipodi:role="line">normal</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3883"
+       y="18.657633"
+       x="36.005692"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="18.657633"
+         x="36.005692"
+         id="tspan3885"
+         sodipodi:role="line">focused</tspan><tspan
+         id="tspan3899"
+         y="23.657633"
+         x="36.005692"
+         sodipodi:role="line">prelight</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3887"
+       y="18.657633"
+       x="60.005692"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="18.657633"
+         x="60.005692"
+         id="tspan3889"
+         sodipodi:role="line">focused</tspan><tspan
+         id="tspan3901"
+         y="23.657633"
+         x="60.005692"
+         sodipodi:role="line">pressed</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3891"
+       y="18.657633"
+       x="84.005692"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="18.657633"
+         x="84.005692"
+         id="tspan3893"
+         sodipodi:role="line">unfocused</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="108.00569"
+       y="18.657633"
+       id="text3879"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3881"
+         x="108.00569"
+         y="18.657633">unfocused</tspan><tspan
+         id="tspan3895"
+         sodipodi:role="line"
+         x="108.00569"
+         y="23.657633">prelight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="127.77393"
+       y="49.491211"
+       id="text3911"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3913"
+         x="127.77393"
+         y="49.491211">menu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="127.77393"
+       y="65.491211"
+       id="text3919"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3921"
+         x="127.77393"
+         y="65.491211">unmaximize</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="127.77393"
+       y="81.491211"
+       id="text3923"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3925"
+         x="127.77393"
+         y="81.491211">maximize</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="127.77393"
+       y="97.491211"
+       id="text3927"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3929"
+         x="127.77393"
+         y="97.491211">minimize</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3915"
+       y="113.49121"
+       x="127.77393"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="113.49121"
+         x="127.77393"
+         id="tspan3917"
+         sodipodi:role="line">close</tspan></text>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+       id="rect3124"
+       width="120"
+       height="80"
+       x="-170"
+       y="40" />
+    <g
+       transform="translate(-170,0)"
+       id="g3126"
+       inkscape:export-filename="close_focused_normal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         y="104"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3128"
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:connector-curvature="0"
+         id="path3130"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g3132"
+       inkscape:export-filename="minimize_focused_normal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-170,8)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="80"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3134"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="90"
+         x="7"
+         height="2"
+         width="10"
+         id="rect3136"
+         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g3138"
+       inkscape:export-filename="maximize_focused_normal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-170,16)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="56"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3140"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="opacity:0.6;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         id="path3142"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       id="g3144"
+       inkscape:export-filename="unmaximize_focused_normal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-170,24)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="32"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3146"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="opacity:0.6;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         id="path3148"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="close_focused_prelight.png"
+       id="g3150"
+       transform="translate(-146,0)">
+      <rect
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3152"
+         width="24"
+         height="16"
+         x="0"
+         y="104"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         id="path3154"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="minimize_focused_prelight.png"
+       id="g3156"
+       transform="translate(-146,8)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3158"
+         width="24"
+         height="16"
+         x="0"
+         y="80"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3160"
+         width="10"
+         height="2"
+         x="7"
+         y="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3162"
+       inkscape:export-filename="maximize_focused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-170,16)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3164"
+         width="24"
+         height="16"
+         x="24"
+         y="56"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 35,59 0,2 2.625,0 L 35,63.5625 36.40625,65 39,62.375 39,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         id="path3166"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       id="g3168"
+       inkscape:export-filename="unmaximize_focused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-170,24)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3170"
+         width="24"
+         height="16"
+         x="24"
+         y="32"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 35,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 41,36.4375 39.59375,35 37,37.625 37,35 35,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         id="path3172" />
+    </g>
+    <g
+       transform="translate(-122,0)"
+       id="g3174"
+       inkscape:export-filename="close_focused_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         y="104"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3176"
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:connector-curvature="0"
+         id="path3178"
+         d="M 16.949747,116.53553 13.414214,113 16.949747,109.46447 15.535534,108.05025 12,111.58579 8.464466,108.05025 7.050252,109.46447 10.585786,113 7.050252,116.53553 8.464466,117.94975 12,114.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(-122,8)"
+       id="g3180"
+       inkscape:export-filename="minimize_focused_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="80"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3182"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         y="91"
+         x="7"
+         height="2"
+         width="10"
+         id="rect3184"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(-122,16)"
+       id="g3186"
+       inkscape:export-filename="maximize_focused_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="56"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3188"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,60 0,2 2.625,0 L 11,64.5625 12.40625,66 15,63.375 15,66 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         id="path3190"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       transform="translate(-122,24)"
+       id="g3192"
+       inkscape:export-filename="unmaximize_focused_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="maximize_focused_normal.png"
+         y="32"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3194"
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,36 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,37.4375 15.59375,36 13,38.625 13,36 11,36 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         id="path3196" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="close_unfocused.png"
+       id="g3198"
+       transform="translate(-98,0)">
+      <rect
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3200"
+         width="24"
+         height="16"
+         x="0"
+         y="104"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         id="path3202"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="minimize_unfocused.png"
+       id="g3204"
+       transform="translate(-98,8)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3206"
+         width="24"
+         height="16"
+         x="0"
+         y="80"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3208"
+         width="10"
+         height="2"
+         x="7"
+         y="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="maximize_unfocused.png"
+       id="g3210"
+       transform="translate(-98,16)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3212"
+         width="24"
+         height="16"
+         x="0"
+         y="56"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.3;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         id="path3214"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="unmaximize_unfocused.png"
+       id="g3216"
+       transform="translate(-98,24)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3218"
+         width="24"
+         height="16"
+         x="0"
+         y="32"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.3;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         id="path3220" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="close_unfocused_prelight.png"
+       id="g3222"
+       transform="translate(-74,0)">
+      <rect
+         style="opacity:0.8;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3224"
+         width="24"
+         height="16"
+         x="0"
+         y="104"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.59999999999999998;color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 16.949747,115.53553 13.414214,112 16.949747,108.46447 15.535534,107.05025 12,110.58579 8.464466,107.05025 7.050252,108.46447 10.585786,112 7.050252,115.53553 8.464466,116.94975 12,113.41421 l 3.535534,3.53554 1.414213,-1.41422 z"
+         id="path3226"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="close_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="minimize_unfocused_prelight.png"
+       id="g3228"
+       transform="translate(-74,8)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3230"
+         width="24"
+         height="16"
+         x="0"
+         y="80"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3232"
+         width="10"
+         height="2"
+         x="7"
+         y="90"
+         inkscape:export-filename="minimize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="maximize_unfocused_prelight.png"
+       id="g3234"
+       transform="translate(-74,16)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3236"
+         width="24"
+         height="16"
+         x="0"
+         y="56"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:0.6;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,59 0,2 2.625,0 L 11,63.5625 12.40625,65 15,62.375 15,65 l 2,0 0,-1 0,-5 -2,0 -3,0 z m -4,7 0,3 3,0 0,-3 z"
+         id="path3238"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="unmaximize_unfocused_prelight.png"
+       id="g3240"
+       transform="translate(-74,24)">
+      <rect
+         style="opacity:0.6;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3242"
+         width="24"
+         height="16"
+         x="0"
+         y="32"
+         inkscape:export-filename="maximize_focused_normal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.6;color:#000000;fill:#000000;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,35 0,1 0,5 2,0 3,0 1,0 0,-2 -2.625,0 L 17,36.4375 15.59375,35 13,37.625 13,35 11,35 z m -4,7 0,3 3,0 0,-3 -3,0 z"
+         id="path3244" />
+    </g>
+    <g
+       transform="translate(-170,0)"
+       id="g3246"
+       inkscape:export-filename="menu_focused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3248"
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path3250"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="menu_focused_prelight.png"
+       id="g3252"
+       transform="translate(-146,0)">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3254"
+         width="24"
+         height="16"
+         x="0"
+         y="40" />
+      <path
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         id="path3256"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-122,0)"
+       id="g3258"
+       inkscape:export-filename="menu_focused_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3260"
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3262"
+         d="m 11,44 0,1.15625 C 10.635689,45.2502 10.285081,45.376237 9.96875,45.5625 L 9.15625,44.75 7.75,46.15625 8.5625,46.96875 C 8.3762371,47.285081 8.2501999,47.635689 8.15625,48 L 7,48 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,51.84375 9.15625,53.25 9.96875,52.4375 C 10.285081,52.623763 10.635689,52.7498 11,52.84375 L 11,54 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,53.25 16.25,51.84375 15.4375,51.03125 C 15.623763,50.714919 15.7498,50.364311 15.84375,50 L 17,50 17,48 15.84375,48 C 15.7498,47.635689 15.623763,47.285081 15.4375,46.96875 L 16.25,46.15625 14.84375,44.75 14.03125,45.5625 C 13.714919,45.376237 13.364311,45.2502 13,45.15625 L 13,44 11,44 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="menu_unfocused.png"
+       id="g3264"
+       transform="translate(-98,0)">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3266"
+         width="24"
+         height="16"
+         x="0"
+         y="40" />
+      <path
+         style="opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         id="path3268"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-74,0)"
+       id="g3270"
+       inkscape:export-filename="menu_unfocused_prelight.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40"
+         x="0"
+         height="16"
+         width="24"
+         id="rect3272"
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3274"
+         d="m 11,43 0,1.15625 C 10.635689,44.2502 10.285081,44.376237 9.96875,44.5625 L 9.15625,43.75 7.75,45.15625 8.5625,45.96875 C 8.3762371,46.285081 8.2501999,46.635689 8.15625,47 L 7,47 l 0,2 1.15625,0 c 0.09395,0.364311 0.2199871,0.714919 0.40625,1.03125 L 7.75,50.84375 9.15625,52.25 9.96875,51.4375 C 10.285081,51.623763 10.635689,51.7498 11,51.84375 L 11,53 l 2,0 0,-1.15625 c 0.364311,-0.09395 0.714919,-0.219987 1.03125,-0.40625 L 14.84375,52.25 16.25,50.84375 15.4375,50.03125 C 15.623763,49.714919 15.7498,49.364311 15.84375,49 L 17,49 17,47 15.84375,47 C 15.7498,46.635689 15.623763,46.285081 15.4375,45.96875 L 16.25,45.15625 14.84375,43.75 14.03125,44.5625 C 13.714919,44.376237 13.364311,44.2502 13,44.15625 L 13,43 11,43 z m 1,3 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-157.99431"
+       y="18.657633"
+       id="text3276"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3278"
+         x="-157.99431"
+         y="18.657633">focused</tspan><tspan
+         sodipodi:role="line"
+         x="-157.99431"
+         y="23.657633"
+         id="tspan3280">normal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-133.99431"
+       y="18.657633"
+       id="text3282"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3284"
+         x="-133.99431"
+         y="18.657633">focused</tspan><tspan
+         sodipodi:role="line"
+         x="-133.99431"
+         y="23.657633"
+         id="tspan3286">prelight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-109.99431"
+       y="18.657633"
+       id="text3288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3290"
+         x="-109.99431"
+         y="18.657633">focused</tspan><tspan
+         sodipodi:role="line"
+         x="-109.99431"
+         y="23.657633"
+         id="tspan3292">pressed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-85.994308"
+       y="18.657633"
+       id="text3294"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3296"
+         x="-85.994308"
+         y="18.657633">unfocused</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3298"
+       y="18.657633"
+       x="-61.994308"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="18.657633"
+         x="-61.994308"
+         id="tspan3300"
+         sodipodi:role="line">unfocused</tspan><tspan
+         y="23.657633"
+         x="-61.994308"
+         sodipodi:role="line"
+         id="tspan3302">prelight</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3304"
+       y="49.491211"
+       x="-42.226067"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="49.491211"
+         x="-42.226067"
+         id="tspan3306"
+         sodipodi:role="line">menu</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3308"
+       y="65.491211"
+       x="-42.226067"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="65.491211"
+         x="-42.226067"
+         id="tspan3310"
+         sodipodi:role="line">unmaximize</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3312"
+       y="81.491211"
+       x="-42.226067"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="81.491211"
+         x="-42.226067"
+         id="tspan3314"
+         sodipodi:role="line">maximize</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316"
+       y="97.491211"
+       x="-42.226067"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="97.491211"
+         x="-42.226067"
+         id="tspan3318"
+         sodipodi:role="line">minimize</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-42.226067"
+       y="113.49121"
+       id="text3320"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3322"
+         x="-42.226067"
+         y="113.49121">close</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="60.005692"
+       y="-1.3423672"
+       id="text3324"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="60.005692"
+         y="-1.3423672"
+         id="tspan3328">LIGHT</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3330"
+       y="-1.3423672"
+       x="-109.99431"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3334"
+         y="-1.3423672"
+         x="-109.99431"
+         sodipodi:role="line">DARK</tspan></text>
+  </g>
+</svg>

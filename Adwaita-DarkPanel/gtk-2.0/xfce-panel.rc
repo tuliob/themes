@@ -1,0 +1,43 @@
+style "theme-panel" = "dark"
+{
+    engine "murrine" {}
+    
+    bg[NORMAL]   = "#1e1e1e"
+    bg[ACTIVE]   = shade (0.40, @selected_bg_color)
+    bg[PRELIGHT] = shade (0.85, @selected_bg_color)
+    bg[SELECTED] = shade (0.85, @selected_bg_color)
+    
+    fg[NORMAL]   = @selected_fg_color
+    fg[PRELIGHT] = @selected_fg_color
+    fg[ACTIVE]   = @selected_fg_color
+    fg[SELECTED] = @selected_fg_color
+    
+    text[NORMAL]   = @selected_fg_color
+    text[PRELIGHT] = @selected_fg_color
+    text[ACTIVE]   = @selected_fg_color
+    text[SELECTED] = @selected_fg_color
+}
+
+widget "*PanelWidget*"            style "theme-panel"
+widget "*PanelApplet*"            style "theme-panel"
+widget "*fast-user-switch*"       style "theme-panel"
+widget "*CPUFreq*Applet*"         style "theme-panel"
+class "PanelApp*"                 style "theme-panel"
+class "PanelToplevel*"            style "theme-panel"
+widget_class "*PanelToplevel*"    style "theme-panel"
+widget_class "*notif*"            style "theme-panel"
+widget_class "*Notif*"            style "theme-panel"
+widget_class "*Tray*"             style "theme-panel" 
+widget_class "*tray*"             style "theme-panel"
+widget_class "*computertemp*"     style "theme-panel"
+widget_class "*Applet*Tomboy*"    style "theme-panel"
+widget_class "*Applet*Netstatus*" style "theme-panel"
+
+# Fixes for tooltip text in some apps.
+widget_class "*Notif*Beagle*"  style "theme-panel"
+widget_class "*Notif*Brasero*" style "theme-panel"
+
+# XFCE panel theming.
+widget "*Xfce*Panel*" style "theme-panel"
+class "*Xfce*Panel*"  style "theme-panel"
+#widget "*WnckPager*"  style "theme-panel"

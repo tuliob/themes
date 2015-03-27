@@ -1,0 +1,66 @@
+/* Nautilus */
+
+/* Fix desktop selected items */
+.nautilus-desktop.nautilus-canvas-item,
+.nautilus-desktop.nautilus-canvas-item:selected,
+.nautilus-desktop.nautilus-canvas-item:active,
+.nautilus-desktop.nautilus-canvas-item:focus,
+.nautilus-desktop.nautilus-canvas-item:backdrop {
+    background: @theme_selected_bg_color;
+    text-shadow: rgba(0,0,0,0.3) 0 1px;
+}
+
+/*Toolbar buttons*/
+.button *:active,
+.toolbar .button *:active,
+.toolbar .raised.linked .button *:active,
+.toolbar .button *:active {
+    color: #444744; /*Nautilus adressbar active button font*/
+    text-shadow: 0 1px rgba(255,255,255,.3);
+    icon-shadow: 0 1px rgba(255,255,255,.3);
+}
+.toolbar .button:active:active,
+.toolbar .raised.linked .button:active:active,
+.toolbar .linked .button:active:active,
+.toolbar .button:active,
+.toolbar .raised.linked .button:active,
+.toolbar .linked .button:active {
+    background-image: none;
+    background: shade (@theme_bg_color, 0.98); /*Nautilus adressbar active button background*/
+    box-shadow: inset 0 2px 5px rgba(0,0,0,.3);
+}
+.button *:active:backdrop,
+.toolbar .button *:active:backdrop,
+.toolbar .raised.linked .button *:active:backdrop,
+.toolbar .button *:active:backdrop {
+    color: #666766;
+}
+.toolbar .button:active:backdrop,
+.toolbar .raised.linked .button:active:backdrop,
+.toolbar .linked .button:active:backdrop {
+    background-image: none;
+    background: @theme_bg_color;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,.2);
+}
+
+/*Sidebar*/
+NautilusWindow * {
+    -GtkPaned-handle-size: 1;
+}
+NautilusWindow .sidebar .frame,
+NautilusWindow .sidebar .frame:backdrop,
+NautilusNotebook .frame {
+    border-width: 0;
+}
+NautilusWindow > GtkGrid > .pane-separator:backdrop,
+NautilusWindow > GtkGrid > .pane-separator:hover:backdrop,
+NautilusWindow > GtkGrid > .pane-separator,
+NautilusWindow > GtkGrid > .pane-separator:hover {
+    border-width: 0 1px 0 0;
+}
+NautilusWindow .sidebar .view {
+    background-image: linear-gradient(to left,
+                                     rgba(0,0,0,.07),
+                                     transparent 7px,
+                                     transparent);
+}

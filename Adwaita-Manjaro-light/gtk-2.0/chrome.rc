@@ -1,0 +1,16 @@
+style "chrome-gtk-frame"
+{
+ChromeGtkFrame::frame-color = "#d5d5d5"
+ChromeGtkFrame::inactive-frame-color = "#d3d3d3"
+
+ChromeGtkFrame::frame-gradient-size = 16
+ChromeGtkFrame::frame-gradient-color = "#dfdfdf"
+
+ChromeGtkFrame::incognito-frame-color = "#d5d5d5"
+ChromeGtkFrame::incognito-inactive-frame-color = "#d3d3d3"
+
+ChromeGtkFrame::incognito-frame-gradient-size = 16
+ChromeGtkFrame::incognito-frame-gradient-color = "#dfdfdf"
+}
+
+class "ChromeGtkFrame" style "chrome-gtk-frame"

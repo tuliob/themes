@@ -1,0 +1,17 @@
+# Menubar [Light]
+style "murrine-menubar" {
+
+    bg[NORMAL]          = "#d3d3d3"
+    bg[INSENSITIVE]     = "#d3d3d3"
+    base[NORMAL]        = "#d3d3d3"
+    base[INSENSITIVE]   = "#d3d3d3"
+    fg[NORMAL]          = "#333333"
+    fg[SELECTED]        = @fg_color
+    fg[INSENSITIVE]     = "#484848"
+    text[NORMAL]        = "#333333"
+    text[INSENSITIVE]   = "#484848"
+
+  engine "murrine" {
+    roundness	 = 3
+  }
+}
