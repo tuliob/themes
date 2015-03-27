@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix Purple
+Comment=A flat, modern theme, forked from Numix Holo
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix Purple
+ButtonLayout=:minimize,maximize,close
